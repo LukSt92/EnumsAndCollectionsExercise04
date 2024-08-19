@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EnumsAndCollectionsExercise01
+namespace EnumsAndCollectionsExercise04
 {
     enum Suits {
         Diamonds,
